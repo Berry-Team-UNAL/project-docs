@@ -1,4 +1,8 @@
-Nicolas Marin 
-Como integrante quisiera desarrollar un rol proactivo, enfocado a encontrar soluciones e indentificar problemas, sobre todo en el apartado de codigo
-Tengo una gran creatividad y una buna capacidad de resolver problemas nuevos a los que me enfrento, incluso sin conocimientos previos del tema
-Reconozco que en algunos casos complico un poco demas las cosas para alcanzar la visión que tengo de ellas 
+¡Hola! Soy Nicolas Marin ✌️✨
+Busco aportar al equipo con una mentalidad solucionadora y mucha iniciativa en el código.
+
+Problem Solver: Si hay un error, lo encuentro; si hay un reto, lo resuelvo. (✧ω✧)
+
+Creative Mind: No necesito manual para empezar. Me enfrento a lo desconocido con creatividad y lógica. 🎨💻
+
+Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
