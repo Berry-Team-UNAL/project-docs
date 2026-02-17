@@ -64,12 +64,15 @@ Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces e
 
 ## Perfil Samuel Guerrero
 
-### 1. Principalmente me veo cómo aquel quien documenta y se comuncia con el cliente, cóm odesarrollando las bases del proyecto, pero es mi meta mejorar mis capacidades técncias, así que mi rol secundario serpia profundizar en arquitectura y diseño.
-### 2. Creo que soy bueno para manejar ideas abstractas y convertirlas en propuestas prácticas, mi uso de notion para gestionar el trabajo, python, java y creo que mis habilidades blandas son excelentes, es decir:
+### 1. 
+Principalmente me veo cómo aquel quien documenta y se comuncia con el cliente, cóm odesarrollando las bases del proyecto, pero es mi meta mejorar mis capacidades técncias, así que mi rol secundario serpia profundizar en arquitectura y diseño.
+### 2.
+Creo que soy bueno para manejar ideas abstractas y convertirlas en propuestas prácticas, mi uso de notion para gestionar el trabajo, python, java y creo que mis habilidades blandas son excelentes, es decir:
 	- Resolución de conflictos
 	- Comunicación
 
-### 3. Mi habilidad técnica carece bastante y mi manejo de tiempo deja que desear.
+### 3. 
+Mi habilidad técnica carece bastante y mi manejo de tiempo deja que desear.
 
 
 
@@ -128,4 +131,5 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 ### 💀 4. Cláusula de Incumplimientos
 > **⚠️ Advertencia:**
 > Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+
 
