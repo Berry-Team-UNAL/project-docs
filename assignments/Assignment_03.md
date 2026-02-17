@@ -29,7 +29,7 @@ Aunque me esfuerzo por ser sincero, organizado y receptivo al escuchar o pedir a
  
 
 ----------------------------------
-Gabriel Jeronimo Puentes Umbarila
+## Gabriel Jeronimo Puentes Umbarila
 
 1 Qué tipo de rol le gustaría desempeñar dentro de un equipo de software (por ejemplo: quien organiza y facilita, quien 
 profundiza en arquitectura y diseño, quien se enfoca en pruebas y calidad, quien documenta y comunica con el “cliente”, etc.).
@@ -50,7 +50,7 @@ Me resulta difícil pedir ayuda, ya que tiendo a pensar que puedo cumplir con mi
 cuando en ocasiones sería más conveniente apoyarme en mi equipo
 
 ----------------------------------
-¡Hola! Soy Nicolas Marin ✌️✨
+## ¡Hola! Soy Nicolas Marin ✌️✨
 Busco aportar al equipo con una mentalidad solucionadora y mucha iniciativa en el código.
 
 Problem Solver: Si hay un error, lo encuentro; si hay un reto, lo resuelvo. (✧ω✧)
@@ -58,6 +58,19 @@ Problem Solver: Si hay un error, lo encuentro; si hay un reto, lo resuelvo. (✧
 Creative Mind: No necesito manual para empezar. Me enfrento a lo desconocido con creatividad y lógica. 🎨💻
 
 Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Perfil Samuel Guerrero
+
+### 1. Principalmente me veo cómo aquel quien documenta y se comuncia con el cliente, cóm odesarrollando las bases del proyecto, pero es mi meta mejorar mis capacidades técncias, así que mi rol secundario serpia profundizar en arquitectura y diseño.
+### 2. Creo que soy bueno para manejar ideas abstractas y convertirlas en propuestas prácticas, mi uso de notion para gestionar el trabajo, python, java y creo que mis habilidades blandas son excelentes, es decir:
+	- Resolución de conflictos
+	- Comunicación
+
+### 3. Mi habilidad técnica carece bastante y mi manejo de tiempo deja que desear.
+
 
 
 ## 🎯 Compromisos y Acuerdos del Grupo
