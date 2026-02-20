@@ -49,7 +49,11 @@ organización, manejo del tiempo, escuchar a otros, pedir ayuda, dar feedback, e
 Me resulta difícil pedir ayuda, ya que tiendo a pensar que puedo cumplir con mis responsabilidades por mi cuenta, 
 cuando en ocasiones sería más conveniente apoyarme en mi equipo
 
----
+---------------------------------
+
+Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ) 
+
+(*/ω＼*) (kaomoji para ver si me deja hacer el merge dios)
 ----------------------------------
 
 ## 🎯 Compromisos y Acuerdos del Grupo
@@ -107,5 +111,6 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 ### 💀 4. Cláusula de Incumplimientos
 > **⚠️ Advertencia:**
 > Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+
 
 
