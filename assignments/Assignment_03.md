@@ -70,6 +70,8 @@ Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces e
 	- Comunicación
 
 ### 3. Mi habilidad técnica carece bastante y mi manejo de tiempo deja que desear.
+*Cambio extra
+maldito gittt
 
 
 
