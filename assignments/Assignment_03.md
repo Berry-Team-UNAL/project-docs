@@ -51,10 +51,14 @@ cuando en ocasiones sería más conveniente apoyarme en mi equipo
 
 ---------------------------------
 
-<<<<<<< HEAD
-Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ) 
+¡Hola! Soy Nicolas Marin ✌️✨ Busco aportar al equipo con una mentalidad solucionadora y mucha iniciativa en el código.
 
-(*/ω＼*) (kaomoji para ver si me deja hacer el merge dios)
+Problem Solver: Si hay un error, lo encuentro; si hay un reto, lo resuelvo. (✧ω✧)
+
+Creative Mind: No necesito manual para empezar. Me enfrento a lo desconocido con creatividad y lógica. 🎨💻
+
+Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
+
 ----------------------------------
 
 ## 🎯 Compromisos y Acuerdos del Grupo
@@ -112,9 +116,3 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 ### 💀 4. Cláusula de Incumplimientos
 > **⚠️ Advertencia:**
 > Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
-
-
-
-=======
-Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
->>>>>>> other/Nimarinv-assignment_03
