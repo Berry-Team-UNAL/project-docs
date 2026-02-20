@@ -114,5 +114,6 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 
 ### 💀 4. Cláusula de Incumplimientos
 > **⚠️ Advertencia:**
-> Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+> Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento en el medio de la plaza che, hora pico, un miercoles. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+
 
