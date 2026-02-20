@@ -51,6 +51,7 @@ cuando en ocasiones sería más conveniente apoyarme en mi equipo
 
 ---------------------------------
 
+<<<<<<< HEAD
 Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ) 
 
 (*/ω＼*) (kaomoji para ver si me deja hacer el merge dios)
@@ -114,3 +115,6 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 
 
 
+=======
+Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
+>>>>>>> other/Nimarinv-assignment_03
