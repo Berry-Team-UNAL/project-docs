@@ -29,7 +29,7 @@ Aunque me esfuerzo por ser sincero, organizado y receptivo al escuchar o pedir a
  
 
 ----------------------------------
-## Gabriel Jeronimo Puentes Umbarila
+Gabriel Jeronimo Puentes Umbarila
 
 1 Qué tipo de rol le gustaría desempeñar dentro de un equipo de software (por ejemplo: quien organiza y facilita, quien 
 profundiza en arquitectura y diseño, quien se enfoca en pruebas y calidad, quien documenta y comunica con el “cliente”, etc.).
@@ -50,7 +50,7 @@ Me resulta difícil pedir ayuda, ya que tiendo a pensar que puedo cumplir con mi
 cuando en ocasiones sería más conveniente apoyarme en mi equipo
 
 ----------------------------------
-## ¡Hola! Soy Nicolas Marin ✌️✨
+¡Hola! Soy Nicolas Marin ✌️✨
 Busco aportar al equipo con una mentalidad solucionadora y mucha iniciativa en el código.
 
 Problem Solver: Si hay un error, lo encuentro; si hay un reto, lo resuelvo. (✧ω✧)
@@ -60,6 +60,7 @@ Creative Mind: No necesito manual para empezar. Me enfrento a lo desconocido con
 Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces eso me lleva a dar un par de vueltas extra en la lógica, ¡pero el resultado siempre vale la pena! (〃￣ω￣〃ゞ)
 
 
+=======
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Perfil Samuel Guerrero
@@ -73,8 +74,10 @@ Visionary: Me gusta que las cosas queden exactamente como las imagino. A veces e
 *Cambio extra
 maldito gittt
 
+otro hp cambio
 
-
+=======
+>>>>>>> 48b5d3180696c71f650e6c52d1213b426d00da8c
 ## 🎯 Compromisos y Acuerdos del Grupo
 
 Establecemos los siguientes lineamientos para garantizar la organización, la calidad del código y la convivencia del equipo durante el semestre.
@@ -129,5 +132,6 @@ Cada commit representa un estado de implementación íntegro. El nombre del comm
 
 ### 💀 4. Cláusula de Incumplimientos
 > **⚠️ Advertencia:**
-> Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+> Cada integrante del grupo que incumpla una labor a la cual estaba comprometido será condenado a pena de flagelación; todos los miembros lo azotarán vehementemente con látigos provocando visible sufrimiento y arrepentimiento en el medio de la plaza che, hora pico, un miercoles. El castigo terminará en el momento en el que el condenado pierda alguna extremidad.
+
 
