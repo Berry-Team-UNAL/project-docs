@@ -18,4 +18,6 @@ organización, manejo del tiempo, escuchar a otros, pedir ayuda, dar feedback, e
 
 Me resulta difícil pedir ayuda, ya que tiendo a pensar que puedo cumplir con mis responsabilidades por mi cuenta, 
 cuando en ocasiones sería más conveniente apoyarme en mi equipo
+
 ---------
+
