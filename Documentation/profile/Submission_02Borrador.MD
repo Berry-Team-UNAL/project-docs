@@ -1,8 +1,11 @@
 # Taller #2
 # Análisis de requisitos: Sistema de Gestión para Panadería
-#1. Contexto del proyecto
-#2. Roles y usuarios
-#3. Requisitos
+# 1. Contexto del proyecto
+Este proyecto nace de la necesidad real de un emprendedor de panadería pastelería que produce bollería artesanal de alta complejidad técnica: pan rollito, roles de canela, roscón
+
+El núcleo del problema es que la gestión de recetas en panadería profesional NO es una lista plana de ingredientes. Es un sistema jerárquico de preparaciones, porcentajes técnicos y procesos interdependientes, que normalmente se gestiona manualmente por medio hojas de cálculo, sistema propenso a errores humanos.
+# 2. Roles y usuarios
+# 3. Requisitos
 
 ## 1. Módulo 1: El Maestro Panadero
 
@@ -121,3 +124,23 @@ Como administrador, quiero poder hacer reajustes geográficos y de condiciones a
 Como administrador, quiero poder hacer reajustes geográficos y de condiciones ambientales (Temperatura, humedad...) relevantes en la producción, según la receta, para precisar el máximo control teniendo en cuenta todas las influencias.
 
 **Criterios SMART:** El sistema debe guardar un registro de cada pedido y sus condiciones cada vez que sea realizado uno, para ser consultado a futuro.
+
+ID	Tipo	Descripción	Clasificación MoSCoW
+RF_01	RF	Como administrador del sistema, quiero registrar ingredientes con sus atributos (precio/g, % de merma, % de agua, % de grasa), para corresponder a las recetas.	M
+RF_02	RF	Como panadero, quiero agrupar ingredientes en mezclas intermedias (ej. masa madre, almíbar), para su integración modular en las diferentes recetas (Quiere decir esto que recetas más grandes pueden componerse de subrecetas).	M
+RF_03	RF	Como desarrollador de productos, quiero armar una receta final combinando ingredientes y sub-recetas, para modelar productos complejos como una medialuna.	M
+RF_04	RF	Como panadero, quiero que el sistema exprese los ingredientes como un porcentaje relativo al peso total de la harina (siendo esta 100 %), para estandarizar fórmulas.	M
+RNF_05	RNF	El cálculo debe ejecutarse en el backend basándose en el atributo “% Hidratación” de cada ingrediente y mostrarse en la cabecera de la receta.	M
+RF_06	RF	Como desarrollador de productos, quiero crear varias versiones a partir de recetas (o subrecetas) existentes sin sobrescribir la original, para innovar sin romper los productos que ya están en producción.	S
+RF_07	RF	Como panadero, quiero elegir conscientemente qué versión de una sub-receta usar dentro de mi receta final, para mantener control absoluto de la fórmula.	S
+RF_08	RF	Como panadero, quiero especificar una cantidad objetivo (ej. unidades o kg de masa), para que el sistema calcule las proporciones sin hacer reglas de tres manuales.	M
+RF_09	RF	Como jefe de producción, quiero que el programa genere una lista plana de cantidades absolutas, para saber exactamente cuánto pesar de cada cosa en el taller.	M
+RF_10	RF	Como administrador, quiero que el cálculo de costo incluya el porcentaje de pérdida o evaporación, para tener un costo real y no ideal.	S
+RF_11	RF	Como administrador, quiero asignar un proveedor o instancia de precio manualmente a un ingrediente dado para poder comparar las opciones posibles.	C
+RNF_12	RNF	El costo total de la receta debe actualizarse inmediatamente si el atributo “Precio relativo” o “Valor por kilo” de un ingrediente base es modificado.	S
+RNF_13	RNF	La vista “Modo Taller” debe ocultar los menús de navegación y mostrar tipografía de al menos 18px para facilitar la lectura.	C
+RF_14	RF	Como panadero en producción, quiero un botón para marcar pasos o ingredientes como completados, para evitar saltar procesos.	S
+RF_15	RF	Como panadero, quiero que se generen reportes de producción de datos relevantes para tener trazabilidad histórica relacionada a las horas de producción, calidad y cantidad producida.	S
+RF_16	RF	Como desarrollador de productos, quiero alterar temporalmente la cantidad de un ingrediente en una vista de prueba, para ver el recálculo inmediato de hidratación.	S
+RF_17	RF	Como administrador, quiero poder hacer reajustes geográficos y de condiciones ambientales (Temperatura, humedad...) relevantes en la producción, según la receta, para precisar el máximo control teniendo en cuenta todas las influencias.	M
+RF_18	RF	Como administrador, quiero poder hacer reajustes geográficos y de condiciones ambientales (Temperatura, humedad...) relevantes en la producción, según la receta, para precisar el máximo control teniendo en cuenta todas las influencias. (Nota: duplicado del HU-17)	S
